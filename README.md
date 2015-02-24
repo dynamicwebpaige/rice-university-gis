@@ -6,5 +6,6 @@ Rice University .gdb, .shp files, GeoJSON, TopoJSON.
 ### Sidewalks
 ### Parking Lots
 ### Buildings
+### Computer Labs
 ### Public Art
 ### [NSFW]

@@ -9,3 +9,4 @@ Rice University .gdb, .shp files, GeoJSON, TopoJSON.
 ### Computer Labs
 ### Public Art
 ### [NSFW]
+Based on the map created for "OPEN" magazine in 2008.
